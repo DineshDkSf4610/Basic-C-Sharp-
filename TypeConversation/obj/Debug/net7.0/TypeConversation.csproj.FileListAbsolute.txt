@@ -1,0 +1,15 @@
+C:\Users\DineshKumarThiyagara\OneDrive - Syncfusion\Desktop\Assignments\TypeConversation\bin\Debug\net7.0\TypeConversation.exe
+C:\Users\DineshKumarThiyagara\OneDrive - Syncfusion\Desktop\Assignments\TypeConversation\bin\Debug\net7.0\TypeConversation.deps.json
+C:\Users\DineshKumarThiyagara\OneDrive - Syncfusion\Desktop\Assignments\TypeConversation\bin\Debug\net7.0\TypeConversation.runtimeconfig.json
+C:\Users\DineshKumarThiyagara\OneDrive - Syncfusion\Desktop\Assignments\TypeConversation\bin\Debug\net7.0\TypeConversation.dll
+C:\Users\DineshKumarThiyagara\OneDrive - Syncfusion\Desktop\Assignments\TypeConversation\bin\Debug\net7.0\TypeConversation.pdb
+C:\Users\DineshKumarThiyagara\OneDrive - Syncfusion\Desktop\Assignments\TypeConversation\obj\Debug\net7.0\TypeConversation.csproj.AssemblyReference.cache
+C:\Users\DineshKumarThiyagara\OneDrive - Syncfusion\Desktop\Assignments\TypeConversation\obj\Debug\net7.0\TypeConversation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DineshKumarThiyagara\OneDrive - Syncfusion\Desktop\Assignments\TypeConversation\obj\Debug\net7.0\TypeConversation.AssemblyInfoInputs.cache
+C:\Users\DineshKumarThiyagara\OneDrive - Syncfusion\Desktop\Assignments\TypeConversation\obj\Debug\net7.0\TypeConversation.AssemblyInfo.cs
+C:\Users\DineshKumarThiyagara\OneDrive - Syncfusion\Desktop\Assignments\TypeConversation\obj\Debug\net7.0\TypeConversation.csproj.CoreCompileInputs.cache
+C:\Users\DineshKumarThiyagara\OneDrive - Syncfusion\Desktop\Assignments\TypeConversation\obj\Debug\net7.0\TypeConversation.dll
+C:\Users\DineshKumarThiyagara\OneDrive - Syncfusion\Desktop\Assignments\TypeConversation\obj\Debug\net7.0\refint\TypeConversation.dll
+C:\Users\DineshKumarThiyagara\OneDrive - Syncfusion\Desktop\Assignments\TypeConversation\obj\Debug\net7.0\TypeConversation.pdb
+C:\Users\DineshKumarThiyagara\OneDrive - Syncfusion\Desktop\Assignments\TypeConversation\obj\Debug\net7.0\TypeConversation.genruntimeconfig.cache
+C:\Users\DineshKumarThiyagara\OneDrive - Syncfusion\Desktop\Assignments\TypeConversation\obj\Debug\net7.0\ref\TypeConversation.dll
